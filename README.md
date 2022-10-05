@@ -1,2 +1,6 @@
 # Bad-Bunkers
-A repository for code designed to help with the Bunkers and Badasses TTRPG
+This repository is going to contain projects related to the _Bunkers and Badasses TTRPG_ created by _Nerdvana Games_.
+
+Current plans for some of its key features include **item generation**, **encounter generation**, and **character generation**.
+
+### Additional features may be drafted in the future.
